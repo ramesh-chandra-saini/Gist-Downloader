@@ -4,7 +4,7 @@
 
 -------------------------------------------------------------------------------
 
-                    Development Of MESSIST
+                       Gist-Downloader
     
                     Author : Ramesh Chandra
     
@@ -21,7 +21,7 @@
 
 * Quick summary
      - **Gist-Downloader is a python based software which can download all your gist code to ~/Desktop/Gist_Codes_Repo/**.
-     -  ** Gist - Gist is a simple way to share snippets and pastes with others using github**
+     - **Gist - Gist is a simple way to share snippets and pastes with others using github**
      - Developer
           - **[Ramesh Chandra](https://www.linkedin.com/in/ramesh-chandra-saini/)**
 * Version 
@@ -48,6 +48,27 @@
 
 ### Detailed information of software: ###
 
+
+* crawl_gist_info.py
+     - input : github handle .
+     - output : json format response from api.github.com of all gist 
+                    and store it gist_info.json
+
+* Quick summary
+     - **Gist-Downloader is a python based software which can download all your gist code to ~/Desktop/Gist_Codes_Repo/**.
+     - **Gist - Gist is a simple way to share snippets and pastes with others using github**
+     - Developer
+
+* Quick summary
+     - **Gist-Downloader is a python based software which can download all your gist code to ~/Desktop/Gist_Codes_Repo/**.
+     - **Gist - Gist is a simple way to share snippets and pastes with others using github**
+     - Developer
+
+* Quick summary
+     - **Gist-Downloader is a python based software which can download all your gist code to ~/Desktop/Gist_Codes_Repo/**.
+     - **Gist - Gist is a simple way to share snippets and pastes with others using github**
+     - Developer 
+     
 * crawl_gist_info.py 
         - input : handle 
         - output : json format response from api.github.com of all gist 
