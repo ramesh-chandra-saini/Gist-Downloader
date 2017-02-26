@@ -1,0 +1,94 @@
+[
+    {
+        "url": "https://gist.githubusercontent.com/rameshchandrasiraura/c49be351d2546e37a8c937d7f8068ff6/raw/ab8b1c80e1e9c485f244da38c0f484ea41768dbf/count_subarray_having_OR_larger_than_K.cpp", 
+        "filename": "count_subarray_having_OR_larger_than_K.cpp"
+    }, 
+    {
+        "url": "https://gist.githubusercontent.com/rameshchandrasiraura/976337ff3c9dc7ccbbefe45ce05673d3/raw/49b45b213d476775eec46aebda0b6b6d242ef007/Running_LIS_using_set.cpp", 
+        "filename": "Running_LIS_using_set.cpp"
+    }, 
+    {
+        "url": "https://gist.githubusercontent.com/rameshchandrasiraura/efee0f1c66d36cd18f293d1c35379e55/raw/327ef1795114c4ab912016d8c60a2f385b47fb88/Monk_meets_Dynamic_Array.cpp", 
+        "filename": "Monk_meets_Dynamic_Array.cpp"
+    }, 
+    {
+        "url": "https://gist.githubusercontent.com/rameshchandrasiraura/72de63ec66c89c2ce6c1a7933e62a395/raw/0c2afebbb618e2765a37c92db4afea72c9fefa46/Running_LIS_using_map.cpp", 
+        "filename": "Running_LIS_using_map.cpp"
+    }, 
+    {
+        "url": "https://gist.githubusercontent.com/rameshchandrasiraura/bd3ffced518c8c41b3701f5086598ef0/raw/0da0cc1ee28f4fd6cef919b3fd1c2b4e0cf6de73/Running_LIS.cpp", 
+        "filename": "Running_LIS.cpp"
+    }, 
+    {
+        "url": "https://gist.githubusercontent.com/rameshchandrasiraura/3f790863d013ba28580e41a5c547a90b/raw/757f70c539866d50e7de76f9bbb4d45ecd551ebe/Second_min_and_second_max_with_update.cpp", 
+        "filename": "Second_min_and_second_max_with_update.cpp"
+    }, 
+    {
+        "url": "https://gist.githubusercontent.com/rameshchandrasiraura/b2444589b78895ccc7f74997f8385bf6/raw/b697d0870f19eab02210be80591059f89eeb0115/max_sum_set_of_non_adjacent_vertices.cpp", 
+        "filename": "max_sum_set_of_non_adjacent_vertices.cpp"
+    }, 
+    {
+        "url": "https://gist.githubusercontent.com/rameshchandrasiraura/5ddd57f436078069603190789f17bb95/raw/1157a781f4e5e83887f2f5274e5cb1b5f3e3a9cb/LazyPropagationSegmentTreeFlipCoin.cpp", 
+        "filename": "LazyPropagationSegmentTreeFlipCoin.cpp"
+    }, 
+    {
+        "url": "https://gist.githubusercontent.com/rameshchandrasiraura/9bd48c6a85fbdd66964528de5a1ea444/raw/b3ef09321b93639d6388c2dd055e8c373dd84729/2DSubMatrixSumQueryUsingBIT.cp", 
+        "filename": "2DSubMatrixSumQueryUsingBIT.cp"
+    }, 
+    {
+        "url": "https://gist.githubusercontent.com/rameshchandrasiraura/95082eac0caa14f9decfb61e8f1642ba/raw/868f5cc2659133001b330594e4e111b68044af8d/3DSubMatrixSumQueryUsingBIT.cpp", 
+        "filename": "3DSubMatrixSumQueryUsingBIT.cpp"
+    }, 
+    {
+        "url": "https://gist.githubusercontent.com/rameshchandrasiraura/27bd3bfdebf98db17771c62a2e013504/raw/116126f3856d30bf425ece60ee1ddf7e78574661/NQueenProblem.cpp", 
+        "filename": "NQueenProblem.cpp"
+    }, 
+    {
+        "url": "https://gist.githubusercontent.com/rameshchandrasiraura/d7ac8498df6e18bc9f379eb6727058d6/raw/0a7aa8584b5eb230530a21e250e7a683d827f9fb/3DSubMatrixSumQueryWithPointUpdate.cpp", 
+        "filename": "3DSubMatrixSumQueryWithPointUpdate.cpp"
+    }, 
+    {
+        "url": "https://gist.githubusercontent.com/rameshchandrasiraura/349a23811ca759af12b3c72d7bbe9c05/raw/d165eef0b79c94e1a8be189598dfcf5bed4121cb/mergeSort.cpp", 
+        "filename": "mergeSort.cpp"
+    }, 
+    {
+        "url": "https://gist.githubusercontent.com/rameshchandrasiraura/4a46df812ffa1407580bc15483b6ae29/raw/db63d6dc4e46648449f33fc31d01f5dc5b8ce8c3/countInversion.cpp", 
+        "filename": "countInversion.cpp"
+    }, 
+    {
+        "url": "https://gist.githubusercontent.com/rameshchandrasiraura/f0898e0040cc71a3e956ae53b1f368b7/raw/529b3e31d8416b044d665a6267cf155cc94b1f97/median.cpp", 
+        "filename": "median.cpp"
+    }, 
+    {
+        "url": "https://gist.githubusercontent.com/rameshchandrasiraura/a91ca344a3efd4a7875a4f2ed54deef6/raw/52df9c18fac1658da1c152aea4f4ed3bfdf977b8/LaregestNumber.cpp", 
+        "filename": "LaregestNumber.cpp"
+    }, 
+    {
+        "url": "https://gist.githubusercontent.com/rameshchandrasiraura/bf3fc892309b9fcf65ece2b20e18bfe5/raw/6d297a71479eda31249a282f901ec3090c363f84/nextPermutation.cpp", 
+        "filename": "nextPermutation.cpp"
+    }, 
+    {
+        "url": "https://gist.githubusercontent.com/rameshchandrasiraura/804a61c7f2c409afac5761b57b16b662/raw/44ad1db664c8ad7df306c372766a58bed464e4ee/BucketSort.cpp", 
+        "filename": "BucketSort.cpp"
+    }, 
+    {
+        "url": "https://gist.githubusercontent.com/rameshchandrasiraura/a88c2dfefdae00d19128671959c2d584/raw/f18433f4b4b8130564c4d4b53a0605641f267d6e/Z_Algo.cpp", 
+        "filename": "Z_Algo.cpp"
+    }, 
+    {
+        "url": "https://gist.githubusercontent.com/rameshchandrasiraura/48f98086a40839114e5762762d440e38/raw/bf094639de93dfa9672d61a8c21d7fb2134ecb6f/wave_sort.cpp", 
+        "filename": "wave_sort.cpp"
+    }, 
+    {
+        "url": "https://gist.githubusercontent.com/rameshchandrasiraura/a47feeea08ef9b1aa23446fcfdfbbb48/raw/ea647f4ae8372670de0dd9940d98785405863086/max_xor_of_two_value_of_array_using_Trie.cpp", 
+        "filename": "max_xor_of_two_value_of_array_using_Trie.cpp"
+    }, 
+    {
+        "url": "https://gist.githubusercontent.com/rameshchandrasiraura/00a1600df84c94fc98ec50f64be0a020/raw/cc946bb8954a3a915c88898d9343ff98391ff83b/max_xor_of_three_value_of_array_using_Trie.cpp", 
+        "filename": "max_xor_of_three_value_of_array_using_Trie.cpp"
+    }, 
+    {
+        "url": "https://gist.githubusercontent.com/rameshchandrasiraura/094bb9238b2f5a74f47281cd581e3dcf/raw/19febaaeec15e4d786a345e0bf5ec74a754467de/BIT.cpp", 
+        "filename": "BIT.cpp"
+    }
+]
