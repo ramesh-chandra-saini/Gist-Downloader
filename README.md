@@ -67,7 +67,7 @@
         - store gist information in json format
             which is stored by crawl_gist_info.py
  
- * gist_name_url.json
+* gist_name_url.json
      - store gist name and gist url 
             which is manipulated by extract_url_and_name.py
           
