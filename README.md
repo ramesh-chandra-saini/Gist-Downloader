@@ -4,15 +4,15 @@
 
 -------------------------------------------------------------------------------
 
-                       Gist-Downloader
+                         Gist-Downloader
     
-                    Author : Ramesh Chandra
+                      Author : Ramesh Chandra
     
-                    Final Year CSE BTech
+                        Final Year CSE BTech
     
                     National Institute of Technology
     
-                    Karnataka Surathkal
+                         Karnataka Surathkal
     
 -------------------------------------------------------------------------------
 
