@@ -64,7 +64,7 @@
                      Store all crawled codes to directory
      
 * gist_info.json 
-        - store gist information in json format
+     - store gist information in json format
             which is stored by crawl_gist_info.py
  
 * gist_name_url.json
