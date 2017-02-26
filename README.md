@@ -19,7 +19,7 @@
 
 ### What is this repository for? ###
 
-* Quick summary
+* Gist-Downloader summary
      - **Gist-Downloader is a python based software which can download all your gist code to ~/Desktop/Gist_Codes_Repo/**.
      - **Gist - Gist is a simple way to share snippets and pastes with others using github**
      - Developer
