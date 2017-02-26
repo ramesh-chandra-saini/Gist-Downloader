@@ -1,28 +1,71 @@
 
 **Gist-Downloader is a python based software which can download all your gist code to ~/Desktop/Gist_Codes_Repo/**
 
-        author : RAMESH CHANDRA
 
-        detailed information of software:
+-------------------------------------------------------------------------------
 
-        crawl_gist_info.py 
-            input : handle 
-            output : json format response from api.github.com of all gist 
+                    Development Of MESSIST
+    
+                    Author : Ramesh Chandra
+    
+                    Final Year CSE BTech
+    
+                    National Institute of Technology
+    
+                    Karnataka Surathkal
+    
+-------------------------------------------------------------------------------
+
+
+### What is this repository for? ###
+
+* Quick summary
+     - **Gist-Downloader is a python based software which can download all your gist code to ~/Desktop/Gist_Codes_Repo/**.
+     -  ** Gist - Gist is a simple way to share snippets and pastes with others using github**
+     - Developer
+          - **[Ramesh Chandra](https://www.linkedin.com/in/ramesh-chandra-saini/)**
+* Version 
+      - 1.0
+
+
+### How do I run this software? ###
+
+* Clone this repo
+* Run run.sh (bash run.sh)
+
+### Who can use it? ###
+
+* Any ubuntu OS user
+
+### Who do I talk to? ###
+
+* Repo owner or admin
+    - Ramesh Chandra
+    - rameshc10695@gmail.com
+    - 8546896750
+    - [Facebook](https://www.facebook.com/rameshc10695)
+
+
+### Detailed information of software: ###
+
+* crawl_gist_info.py 
+        - input : handle 
+        - output : json format response from api.github.com of all gist 
                     and store it gist_info.json
-        gist_info.json 
-            store gist information in json format
+* gist_info.json 
+        - store gist information in json format
             which is stored by crawl_gist_info.py
             
-        extract_gist_url_and_name.py 
-            input : gist_info.json
-            output : gist_name_url.json which store only gist name and gist url
+* extract_gist_url_and_name.py 
+        - input : gist_info.json
+        - output : gist_name_url.json which store only gist name and gist url
         
-        gist_name_url.json 
-            store gist name and gist url 
+* gist_name_url.json 
+        - store gist name and gist url 
             which is manipulated by extract_url_and_name.py
         
-        crawl_gist_code.py 
-            input : gist_name_url.json
-            Output : Create ~/Desktop/Gist_Codes_Repo/
+* crawl_gist_code.py 
+        - input : gist_name_url.json
+         - Output : Create ~/Desktop/Gist_Codes_Repo/
                      Crawl all gist codes 
                      Store all crawled codes to directory
