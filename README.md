@@ -1,7 +1,7 @@
 
 Gist-Downloader is a python based software which can download all your gist code to ~/Desktop/Gist_Codes_Repo/
 
-author : RAMESH CHANDRA
+        author : RAMESH CHANDRA
 
         detailed information of software:
 
